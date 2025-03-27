@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/marcoschiavo/Documents/C++/thread_contocorrente",
+      "program": "/Users/marcoschiavo/Documents/C++/thread_contocorrente/build/Debug/outDebug"
+    }
+  ]
+}
